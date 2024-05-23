@@ -1,4 +1,10 @@
-# TCEC Manual
+# TCEC
+
+Contributors: Weidong Li\*, *Student Member, IEEE*, Bo Zhao\*, Lingzi Zhu\*, Yixuan Wang\*, Qian Zhong\*, Shui Yu\&, *Fellow, IEEE*
+
+Organization: *School of Cyber Science and Engineering, Wuhan University
+
+&School of Computer Science, University of Technology Sydney
 
 1. It is recommended to copy the code file to the $/home$ directory and name it TCEC.
 
